@@ -4,10 +4,10 @@ function Header() {
   return (
     <div className=" bg-black  px-2  py-1 text-white ">
       <h1 className="text-white text-center text-4xl font-bold m-1">
-        Random-React 
+        Random-React
       </h1>
       <div className="text-2xl font-bold">
-        <a href="http://localhost:3000/" className="mx-5">
+        <a href="https://random-react-cl2x.vercel.app/" className="mx-5">
           Home
         </a>
       </div>

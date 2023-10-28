@@ -35,6 +35,7 @@ const page = () => {
       </div>
 
       <Facts />
+      <div>Random React © 2002 - 2023 All rights reserved !!<span>created by Rahul Kumar Maurya</span></div>
     </>
   );
 };
